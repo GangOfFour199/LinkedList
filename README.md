@@ -17,3 +17,8 @@
 11. `toString()` returns your LinkedList objects as strings in the format: ( value ) -> ( value ) -> ( value ) -> null
 12. `insertAt(value, index)` inserts a new node with the provided value at the given index or at the end of the list if index is bigger than list size
 13. `removeAt(index)` removes the node at the given index or error message if the list is empty or if the request index is bigger than list size
+
+## THIS ASSIGNMENT WAS COMPLETED USING
+
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
