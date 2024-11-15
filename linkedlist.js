@@ -37,7 +37,7 @@ export class LinkedList {
   }
   getTail() {
     let tmp = this.head;
-    while (tmp.nextNode != null) tmp = tmp.nextNode; // keeps traversing through unitl next ref is null
+    while (tmp.nextNode != null) tmp = tmp.nextNode; // keeps traversing through until next node is null
     return tmp; // returns last node
   }
   at(index) {
