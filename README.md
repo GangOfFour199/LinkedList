@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-> *An excercise on how to create a Linked List, initialising it as a class with Nodes classes incorporated in the list itself. The Linked List class contains a multitude of desired functions listed below.*
+> *An excercise on how to create a **Linked List**, initialising it as a class with Nodes classes incorporated in the list itself. The Linked List class contains a multitude of desired functions listed below.*
 
 1. `clear()` empties all the nodes within the list and returns the value of the list as `null`
 2. `append(value)` adds a new node containing value to the end of the list or to start if list is empty
